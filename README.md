@@ -1,5 +1,6 @@
 # Conecta Cultura
 Proyecto incremental de la asignatura Desarrollo FullStack II.
+- Integrante: dzynss
 
 ## Primera etapa
 - Estructura HTML inicial.
